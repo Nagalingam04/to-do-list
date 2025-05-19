@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#to-do{
+  padding: 40px;
+}
+
+#button{
+  padding: 10px 20px;
+  margin-left: 25px;
+}
+
+#list{
+  padding:20px;
+}
+
+#text{
+  padding-left: 10px;
+}
+
+#delete{
+  padding: 5px 15px;
+}
+
+#tasks-list{
+  margin-top: 10px;
+}
